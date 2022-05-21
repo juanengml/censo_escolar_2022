@@ -1,9 +1,8 @@
-# main_censo
-- Analise de comportamento Senso Educacional
+# Analise de comportamento Senso Educacional
 
-++++- Analise de comportamento Senso Educacional -++++
+### Analise de comportamento Senso Educacional
 
-1. Houve aumento ou redução das aquisições de equipamentos de (informática,multimídias e laboratórios e acesso a Internet)durante o período de 2018-2021?2.2.Onde?
+ 1. Houve aumento ou redução das aquisições de equipamentos de (informática,multimídias e laboratórios e acesso a Internet)durante o período de 2018-2021? 2.2.Onde?
 3. Tem escolas que não tem acesso a energia?
 4. n⁰ de Matrículas por escola.
 5. Quais escolas não tem material pedagógico?
