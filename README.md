@@ -10,3 +10,8 @@
 7. Qual a melhor abordagem para desenvolver uma estrutura escolar apta para o programa de educação tecnológica?
 8. Dá para desenvolver um modelo?
 9. Quais abordagens?
+
+
+# link bases 
+
+https://drive.google.com/drive/folders/14bKvSXCRWi0DrsnQW8XHpvPTpR-a7Faw?usp=sharing
